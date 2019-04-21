@@ -1,6 +1,6 @@
 # Final Project - Titanic: Machine Learning from Disaster
-## Kaggle Competition Link: https://www.kaggle.com/c/titanic
-## Link data set: https://www.kaggle.com/c/titanic/data
+### Kaggle Competition Link: https://www.kaggle.com/c/titanic
+### Link data set: https://www.kaggle.com/c/titanic/data
 
 ### Team Members
 * Divjyot Khanuja
@@ -31,13 +31,7 @@ PassengerId,Survived
 
 ## Getting Started
 
-The data set given is in Json format. Data set is comprised of review.json file containing 600000 reviews, the objective of the assignment is to classify the reviews as positive negative and neutral. Along with that predict the required data. 
-
-For this project, I have used 4 classifiers.
-1. Naive Byes
-2. Random Forest
-3. Knn
-4. SVM
+To be added.. 
 
 ### Prerequisites
 
