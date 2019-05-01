@@ -13,9 +13,28 @@ Dropped few columns
 
 Exported preprocessed data in CSV’s for later analysis
 
+Model Selection
+
 ### Results and Conclusion
 We now have a clean data for processing. The work helped us understand more about the features that can be used to solve the classification problem.
 
+Selected Model:
+
+  1.Random Forests Model
+
+  2.Support Vector Machines
+
+  3.Gradient Boosting Classifier
+
+  4.K-nearest neighbors
+
+  5.Gaussian Naive Bayes
+
+  6.Logistic Regression
+
+  7.Decision Tree
+
+Next step is find the best model to get the problem solved.
 
 
 ## Authors
