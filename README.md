@@ -29,32 +29,38 @@ PassengerId,Survived
  894,0
  Etc.
 
-## Getting Started
+## Project Phase and Planning
 
 To be added.. 
 
-### Prerequisites
+## Alogorithms Used 
 
-To be added..
-
-## Methodology 
-To be added..
 
 ```
-To be added..
+1.Random Forests Model
+2.Support Vector Machines
+3.Gradient Boosting Classifier
+4.K-nearest neighbors
+5.Gaussian Naive Bayes
+6.Logistic Regression
+7.Decision Tree
 
 ```
 
-## Running the tests
-
-To be added..
 
 ### Results and Conclusion
 
 
 
 ```
-To be added..
+
+       logistic	  rf	      svc	     knn
+test1	0.797980	0.809203	0.745230	0.747475
+test2	0.791246	0.818182	0.764310	0.757576
+test3	0.796857	0.812570	0.763187	0.757576
+test4	0.796857	0.810325	0.832772	0.778900
+test5	0.794613	0.812570	0.760943	0.741863
+test6	0.790123	0.823793	0.831650	0.775533
 
 ```
 
