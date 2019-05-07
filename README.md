@@ -54,7 +54,7 @@ To be added..
 
 ```
 
-       logistic	   rf	      svc	     knn
+Test       logistic	   rf	      svc	     knn
 test1	0.797980	0.809203	0.745230	0.747475
 test2	0.791246	0.818182	0.764310	0.757576
 test3	0.796857	0.812570	0.763187	0.757576
