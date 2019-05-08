@@ -47,10 +47,7 @@ PassengerId,Survived
 
 ```
 
-
 ### Results and Conclusion
-
-
 
 ```
 
@@ -63,6 +60,8 @@ test5	0.794613	0.812570	0.760943	0.741863
 test6	0.790123	0.823793	0.831650	0.775533
 
 ```
+![alt text](https://github.com/vinsingh29/Titanic-Kaggle-Competition/blob/master/docs/Result%20of%20Approach1.png)
+
 
 ## Authors
 
