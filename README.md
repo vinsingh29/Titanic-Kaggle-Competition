@@ -31,7 +31,7 @@ PassengerId,Survived
 
 ## Project Phase and Planning
 
-To be added.. 
+![alt text](https://github.com/vinsingh29/Titanic-Kaggle-Competition/blob/master/docs/Project%20Planning.png)
 
 ## Alogorithms Used 
 
@@ -54,7 +54,7 @@ To be added..
 
 ```
 
-Test       logistic	   rf	      svc	     knn
+Test       logistic	      rf	      svc	     knn
 test1	0.797980	0.809203	0.745230	0.747475
 test2	0.791246	0.818182	0.764310	0.757576
 test3	0.796857	0.812570	0.763187	0.757576
